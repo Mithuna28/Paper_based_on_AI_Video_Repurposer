@@ -1,0 +1,20 @@
+[
+    {
+        "scene": 1,
+        "start": 0.0,
+        "end": 49.95,
+        "duration": 49.95
+    },
+    {
+        "scene": 2,
+        "start": 49.95,
+        "end": 819.15,
+        "duration": 769.2
+    },
+    {
+        "scene": 3,
+        "start": 819.15,
+        "end": 839.77,
+        "duration": 20.62
+    }
+]

@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+venv312/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+.next/
+out/
+
+# Generated videos and temporary files
+*.mp4
+*.mov
+*.mkv
+*.avi
+uploads/
+clips/
+semantic_only_output/
+evaluation_output/
+
+# Python generated files
+*.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Project-generated media
+backend/*.mp4
+backend/*.mov
+backend/*.mkv
+backend/*.avi
+backend/*.png
+backend/*.jpg
+backend/*.jpeg
+backend/*.wav
+
+# Temporary/debug/test artifacts
+backend/debug_*
+backend/src_check_*
+backend/filter_*
+backend/test_*
+backend/*_before_smart_integration.py
+backend/*_before_smart_ranking.py
+backend/pipeline_after_ranking.py
+backend/pipeline_clips.txt
+backend/clips.txt
+backend/captions.srt
+backend/selected_captions.srt
+backend/test_layout_sub.srt
+backend/test_sub.srt
+backend/test_sub_small.srt
+backend/test_sub_exact.srt
+
+# Local audio/transcription test data
+backend/audio/
+backend/transcript/
+backend/transcript_english/
+
+# Backup versions
+backend/*_before_smart_integration*.py
+backend/*_before_smart_ranking*.py

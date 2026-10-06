@@ -1,0 +1,23 @@
+[
+    {
+        "start": 0.0,
+        "end": 28.4,
+        "text": "If you're struggling in Java, don't worry because I got you. Just take a nice deep breath, sit back, and I'm gonna show you everything you need to know in Java. This video is made so you could just watch it on your phone, or follow along if you want. I've been programming in Java for over eight years now. I graduated with the Computer Science degree. And maybe like you, I had a lot of problems learning how to program at all. I had to break down in college when I thought I couldn't pass few of the projects. So it was really hard for me, but I don't want to make it hard for you on a try to help you out wherever you are in your life with programming. And hopefully you find this video helpful. This is everything you need to know about Java in 13 minutes. Hey, it's Alex Bagaggan helping you learn Java. On this channel, if you're new here, I make a Java tutorial just like this one every single week. So if you're new here, you can consider subscribing. Computer is only understand zeros and ones, which makes it kind of difficult for a human. So to solve this, what we did is we made programming languages, which are just a bunch of keywords and symbols that help us program a computer. The one we're learning today is obviously Java, and here's everything you need to know about Java to start getting started.",
+        "score": 0.7856245040893555,
+        "highlight_score": 0.8392
+    },
+    {
+        "start": 252.4,
+        "end": 277.4,
+        "text": "But after you have the name of your variable, hit a period. And this period is maybe one of the most important symbols in Java. Because it tells you everything that that variable can do for you. All that wonderful code built into Java, you have it accessed through this period. The programming you're writing, javin, will most likely have like a little box here, and you can scroll through it, and this is everything you can do to that variable.",
+        "score": 0.6308937072753906,
+        "highlight_score": 0.7232
+    },
+    {
+        "start": 773.4,
+        "end": 798.4,
+        "text": "Hit apply doing import statement just like this but for the name of that jar. And then you could use the code that they wrote in your program. That's pretty much everything you need to know about Java. We went over primitive types variable storing data objects classes methods logic like if else statements and also what a lot of this symbols met. So I really hope this helped you get started. I'm very new at this. I've been doing Java tutorials for a while but like trying to do it all at once was a bit of a challenge for me. So I tried my best and of course if you want more I make a Java tutorial every week and you can subscribe down below if you don't want to miss any. As always you can be anywhere in the world but you hear with me and I really appreciate that so much.",
+        "score": 0.724166750907898,
+        "highlight_score": 0.7931
+    }
+]
